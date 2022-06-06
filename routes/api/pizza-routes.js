@@ -1,5 +1,4 @@
 const router = require("express").Router();
-//destructured pizzaControllee Object
 const {
   getAllPizza,
   getPizzaById,
